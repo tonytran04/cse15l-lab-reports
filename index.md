@@ -1,1 +1,3 @@
-du ma
+*  Name: Tony Tran
+*  Major: Math-CS
+*  College: Marshall
