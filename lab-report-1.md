@@ -34,3 +34,7 @@ Here are some to try:
 * ls <directory> 
 * cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
 * cat /home/linux/ieng6/cs15lsp23/public/hello.txt
+  
+  mine looked like :
+  ![image](https://user-images.githubusercontent.com/110417599/231015280-f00855c9-f657-410b-9f7d-704644c46841.png)
+
