@@ -27,10 +27,10 @@ Next, They will want you to input your password and after your screeen should lo
 
 You are now ready to run some commands. 
 Here are some to try:
-*cd ~
-*cd
-*ls -lat
-*ls -a
-*ls <directory> 
-*cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
-*cat /home/linux/ieng6/cs15lsp23/public/hello.txt
+* cd ~
+* cd
+* ls -lat
+* ls -a
+* ls <directory> 
+* cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
+* cat /home/linux/ieng6/cs15lsp23/public/hello.txt
