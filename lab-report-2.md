@@ -10,10 +10,10 @@ class Handler implements URLHandler {
     public String handleRequest(URI url) {
         if (url.getPath().contains("/add-message")) {
             String[] parameters = url.getQuery().split("=");
-            String kp;
+            String tt;
             if (s != null) {
-                kp = s + "\n" + parameters[1];
-                return kp;
+                tt = s + "\n" + parameters[1];
+                return tt;
             }
             s = parameters[1];
             return s;
