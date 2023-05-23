@@ -5,7 +5,10 @@
 ```
 <up><enter><command-v><enter>
 ```
+![img](LOGIN IENG6.png)
+
 I login by ssh my cse15L account then I copy pasted my account password to login by pressing cmd+v.
+
 # 2. Clone the fork of the repository
 clone the repository by typing the command
 ```
