@@ -5,7 +5,7 @@
 ```
 <up><enter><command-v><enter>
 ```
-![img]![image](https://github.com/tonytran04/cse15l-lab-reports/assets/110417599/5e9ac6ba-2bf3-482e-88ae-5c57606a4fe1)
+![image](https://github.com/tonytran04/cse15l-lab-reports/assets/110417599/5e9ac6ba-2bf3-482e-88ae-5c57606a4fe1)
 
 I login by ssh my cse15L account then I copy pasted my account password to login by pressing cmd+v.
 
