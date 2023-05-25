@@ -25,23 +25,28 @@ helps filters files with the same amount of storage
 
 ## -iname n
 The -iname  specifies a name of a file to look for 
-files with the same format/name will be returned. [website](https://www.tutorialspoint.com/unix_commands/find.htm).
-``
+files with the same format/name will be returned. [command](https://www.tutorialspoint.com/unix_commands/find.htm).
+
+```
 $ find ./technical -iname CHAPTER-1.txt
 ./technical/911report/chapter-1.txt
 ```
 Here it's getting files with the same name but call capital letters 
 This helps when trying to look for non case sensitive files.
+
 ```
 $ find ./technical -iname prEfAcE.txt
 ./technical/911/report/preface.txt
 ```
+
 Same lettering but different capitalization
 helpful when typing too quickly/typos
+
 ## -type n
 -type specifies files of a specific type for example, d for directory or f for plain text.
 An error will occur when that file does not exist.
-[website](https://www.softwaretestinghelp.com/find-command-in-unix/)
+[command](https://www.softwaretestinghelp.com/find-command-in-unix/)
+
 ```
 $ find ./technical -type d
 ./technical
@@ -56,6 +61,7 @@ $ find ./technical -type d
 ./technical/biomed
 ./technical/911report
 ```
+
 Helpful when you want to list all possible paths a file could be in.
 ```
 $ find ./technical -type f
@@ -71,7 +77,7 @@ Gets all .txt files
 helpful because it lists everything without extra lines
 ## -o
  -o allows multiple searches together. 
-[website](https://unix.stackexchange.com/questions/50612/how-to-combine-2-name-conditions-in-find)
+[command](https://unix.stackexchange.com/questions/50612/how-to-combine-2-name-conditions-in-find)
 ```
 $ find ./technical \( -name "chapter-10.txt" -o -name "chapter-9.txt" \)
 ./technical/911report/chapter-9.txt
