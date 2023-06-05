@@ -10,7 +10,8 @@ PC Windows Visual Studio Code Terminal
 
 Struggling on how to compile and run Array Tests.
 
-![image](lab5ss.PNG)
+![image](https://github.com/tonytran04/cse15l-lab-reports/assets/110417599/efc9d7ec-311c-40b7-bd6b-7b37f64d900a)
+
 
 **Detail the failure-inducing input and context. That might mean any or all of the command you're running, a test case, command-line arguments, working directory, even the last few commands you ran. Do your best to provide as much context as you can.**
 
